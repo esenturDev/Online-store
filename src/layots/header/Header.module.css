@@ -1,0 +1,12 @@
+.container {
+  background-color: aqua;
+  padding: 20px;
+  text-align: center;
+}
+
+.navbar {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}

@@ -1,0 +1,17 @@
+.links {
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.active {
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.myActiveLink {
+  color: blue;
+  font-weight: bold;
+  font-size: 20px;
+}
